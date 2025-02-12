@@ -31,7 +31,7 @@ data:
     # shuffle: False
 
 model:
-  model_name: "LBDBM-f8_night2day_x256_small" # part of result path
+  model_name: "LBDBM-f8_night2day_x256" # part of result path
   model_type: "LBDBM" # specify a module
   latent_before_quant_conv: False
   normalize_latent: False
