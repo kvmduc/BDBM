@@ -34,7 +34,7 @@ dataset_config:
 ## Train and Test
 ### Specify your configuration file
 Modify the configuration file based on our templates in <font color=violet><b>configs/*.yaml</b></font>
-Don't forget to specify your VQGAN checkpoint path and dataset path.
+If training on latent space, don't forget to specify your VQGAN checkpoint path and dataset path.
 ### Specity your training and tesing shell
 
 If you wish to train from the beginning
