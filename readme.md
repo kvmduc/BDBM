@@ -55,13 +55,6 @@ python3 main.py --config configs/Template_LBBDM_f4.yaml --sample_to_eval --gpu_i
 
 Note that optimizer checkpoint is not needed in test and specifying checkpoint path in commandline has higher priority than specifying in configuration file.
 
-
-## Pretrained Models
-For simplicity, we re-trained all of the models based on the same VQGAN model from LDM.
-
-The pre-trained VQGAN models provided by LDM can be directly used for all tasks.  
-https://github.com/CompVis/latent-diffusion#bibtex
-
 ## Acknowledgement
 Our code is implemented based on Latent Diffusion Model, VQGAN, and Brownian Bridge Diffusion Models
 
