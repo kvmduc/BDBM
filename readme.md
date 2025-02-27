@@ -64,4 +64,13 @@ Our code is implemented based on Latent Diffusion Model, VQGAN, and Brownian Bri
 [VQGAN](https://github.com/CompVis/taming-transformers)   
 [Brownian Bridge Diffusion Model](https://github.com/xuekt98/BBDM)
 
+## Citation
+```@article{kieu2025bidirectional,
+  title={Bidirectional Diffusion Bridge Models},
+  author={Kieu, Duc and Do, Kien and Nguyen, Toan and Nguyen, Dang and Nguyen, Thin},
+  journal={arXiv preprint arXiv:2502.09655},
+  year={2025}
+}
+```
+
 
