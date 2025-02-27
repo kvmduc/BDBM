@@ -1,4 +1,6 @@
 # Bidirectional Diffusion Bridge Models
+This is the official implementation of [Bidirectional Diffusion Bridge Models](https://arxiv.org/abs/2502.09655)
+
 
 ![img](resources/model.svg)
 
@@ -58,8 +60,8 @@ Note that optimizer checkpoint is not needed in test and specifying checkpoint p
 ## Acknowledgement
 Our code is implemented based on Latent Diffusion Model, VQGAN, and Brownian Bridge Diffusion Models
 
-[Latent Diffusion Models](https://github.com/CompVis/latent-diffusion#bibtex)  
-[VQGAN](https://github.com/CompVis/taming-transformers)
+[Latent Diffusion Models](https://github.com/CompVis/latent-diffusion#bibtex)   
+[VQGAN](https://github.com/CompVis/taming-transformers)   
 [Brownian Bridge Diffusion Model](https://github.com/xuekt98/BBDM)
 
 
