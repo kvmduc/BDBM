@@ -1,5 +1,5 @@
 # Bidirectional Diffusion Bridge Models
-This is the official implementation of [Bidirectional Diffusion Bridge Models](https://arxiv.org/abs/2502.09655)
+This is the official implementation of [Bidirectional Diffusion Bridge Models](https://arxiv.org/abs/2502.09655) (SIGKDD 2025)
 
 
 ![img](resources/model.svg)
